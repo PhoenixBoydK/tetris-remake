@@ -1,0 +1,1 @@
+needed suff: python, pygame
